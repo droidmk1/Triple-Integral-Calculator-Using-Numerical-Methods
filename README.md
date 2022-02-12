@@ -1,1 +1,1 @@
-# Triple-Integral-Calculator-Using-Numerical-Methods
+# Triple-Integral-and-Edo-Calculator-With-Numerical-Methods
